@@ -1,0 +1,1 @@
+uri = `mongodb+srv://amans7097:pooshuamn@cluster0.an2orkb.mongodb.net/cardekho?retryWrites=true&w=majority`
